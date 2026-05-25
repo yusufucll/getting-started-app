@@ -1,3 +1,5 @@
+//CI/CD trigger test
+
 const express = require('express');
 const app = express();
 const db = require('./persistence');
